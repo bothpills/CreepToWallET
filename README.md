@@ -1,5 +1,5 @@
 # CreepToWallET
-Carteira de criptomoedas 
+Gerador de carteira de criptomoedas 
 
 
 Este código é uma implementação simples de uma carteira criptográfica usando JavaScript e a biblioteca BitcoinJS, com base no curso "Especialista em Blockchain" da Digital Innovation ONE. O código gera uma carteira determinística hierárquica (HD) para a rede Bitcoin Testnet, o que significa que ele cria uma carteira que pode gerar vários pares de chave pública e privada a partir de uma única frase-semente.
