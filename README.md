@@ -8,9 +8,9 @@ Este código é uma implementação simples de uma carteira criptográfica usand
 DEPENDÊNCIAS:
 
 As seguintes dependências são necessárias para executar este código:
-bip32: Esta é uma biblioteca que implementa o padrão BIP32 para criação de carteiras HD.
-bip39: Esta é uma biblioteca que implementa o padrão BIP39 para geração de frases-semente mnemônicas.
-bitcoinjs-lib: Esta é uma biblioteca que implementa criptografia e funcionalidades de transação relacionadas ao Bitcoin.
+bip32: biblioteca que implementa o padrão BIP32 para criação de carteiras HD.
+bip39: biblioteca que implementa o padrão BIP39 para geração de frases-semente mnemônicas.
+bitcoinjs-lib: biblioteca que implementa criptografia e funcionalidades de transação relacionadas ao Bitcoin.
 
 
 REDE:
